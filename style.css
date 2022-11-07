@@ -25,6 +25,7 @@ body{
 }
 section{
     height: 500px; 
+
 }
 .link-buttom{
     text-decoration: none;
@@ -33,37 +34,8 @@ section{
      padding: 5px 20px;
      border-radius: 5px;
     font-weight: 700px;
-}
-.lighting{
-
-    color: darkorange;
-}
-.secound-light{
-    width: 40%;
-    float: right;
-    margin-right: 7%;
-    padding-left: 2%;
 
 }
-.secound-light img {
 
-    width: 100%;
-}
-.under-banner {
-    height: 500px;
-}
-.under-banner{
-    background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
-}
 
-.secound-link-buttom{
 
-    text-decoration: none;
-    background-image: linear-gradient(45deg, lightSalmon, tomato);
-    padding: 5px 20px;
-    border-radius: 5px;
-    color: white;
-    font-weight: 700px;
-}
