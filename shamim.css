@@ -1,0 +1,86 @@
+.name-hightlite{
+
+    color: darkorange;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+
+h3{
+    color: rgb(25, 3, 46);
+}
+.half-wide{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+  
+}
+.half-wide img{
+    width: 100%;
+}
+
+.link-buttom{
+
+    text-decoration: none;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.top-banner{
+
+background-image: url(images/top-banner.png);
+background-repeat: no-repeat;
+height: 500px;
+}
+section{
+    height: 500px;
+}
+
+.under-bg{
+
+   background-image: url(images/dream-bg.png);
+   background-repeat: no-repeat;
+   background-position: right;
+}
+.link-youtube{
+
+
+    text-decoration: none;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: white;
+
+}
+.single-line{
+
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+    border-radius: 5px;
+}
+#liner{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue , cyan);
+    border-image-slice: 1;
+   
+}
+#se-line{
+
+   border-left: 7px solid;
+   border-image: linear-gradient(rgb(243, 30, 6), tomato) ;
+   border-image-slice: 1;
+}
+
+.exprince-area{
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+h3{
+    color: yellow;
+}
